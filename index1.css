@@ -1,0 +1,31 @@
+body{
+    background-color: white;
+    padding-left: 1%
+}
+
+.container-fluid{
+    padding-left: 125px;
+}
+
+.pink{
+    color: #fa3b52
+}
+
+.purple{
+    color: #bf9dd6
+}
+
+.right{
+    background-image: url('./assets/undraw_sunlight_tn7t.png');
+    background-size: cover;
+    background-position: 0px 0px;
+    min-height: 500px;
+}
+
+.invisibe{
+    color:white;
+}
+
+.KM{
+    border-radius: 10px;
+}
